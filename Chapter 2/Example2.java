@@ -1,8 +1,3 @@
-/**
- * C02 L02
- * 
- * Here is another short example. Call this file "Example2.java"
- */
 public class Example2 {
 
     public static void main(String[] args) {

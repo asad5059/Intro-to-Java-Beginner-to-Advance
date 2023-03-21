@@ -1,8 +1,3 @@
-/**
- * C02 L03
- * 
- * Demonstrate the if. Call this file "IfSample.java".
- */
 public class IfSample {
 
     public static void main(String[] args) {
