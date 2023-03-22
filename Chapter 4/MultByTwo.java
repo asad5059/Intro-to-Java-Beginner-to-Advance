@@ -1,8 +1,3 @@
-/**
- * C04 L07
- * 
- * Left shifting as a quick way to multiply by 2.
- */
 public class MultByTwo {
 
     public static void main(String[] args) {

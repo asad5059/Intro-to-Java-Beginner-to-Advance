@@ -1,8 +1,3 @@
-/**
- * C04 L04
- * 
- * Demonstrate ++.
- */
 public class IncDec {
 
     public static void main(String[] args) {

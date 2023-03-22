@@ -1,8 +1,3 @@
-/**
- * C04 L05
- * 
- * Demonstrate the bitwise logical operators.
- */
 public class BitLogic {
 
     public static void main(String[] args) {

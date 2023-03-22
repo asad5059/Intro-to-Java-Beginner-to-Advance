@@ -1,8 +1,3 @@
-/**
- * C04 L03
- * 
- * Demonstrate several assignment operators.
- */
 public class OpEquals {
 
     public static void main(String[] args) {

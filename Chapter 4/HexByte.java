@@ -1,8 +1,3 @@
-/**
- * C04 L08
- * 
- * Masking sign extension.
- */
 public class HexByte {
 
     public static void main(String[] args) {

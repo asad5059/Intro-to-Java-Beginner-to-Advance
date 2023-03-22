@@ -1,8 +1,3 @@
-/**
- * C04 L10
- * 
- * OpBitEquals
- */
 public class OpBitEquals {
 
     public static void main(String[] args) {

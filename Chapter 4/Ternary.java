@@ -1,8 +1,3 @@
-/**
- * C04 L12
- * 
- * Demonstrate ?.
- */
 public class Ternary {
 
     public static void main(String[] args) {

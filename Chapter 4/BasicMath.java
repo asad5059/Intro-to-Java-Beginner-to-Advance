@@ -1,8 +1,3 @@
-/**
- * C04 L01
- * 
- * Demonstrate the basic arithmetic operators.
- */
 public class BasicMath {
 
     public static void main(String[] args) {

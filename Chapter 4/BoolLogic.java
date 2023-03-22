@@ -1,8 +1,3 @@
-/**
- * C04 L11
- * 
- * Demonstrate the boolean logical operators.
- */
 public class BoolLogic {
 
     public static void main(String[] args) {

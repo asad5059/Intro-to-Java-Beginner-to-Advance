@@ -1,8 +1,3 @@
-/**
- * C04 L09
- * 
- * Unsigned shifting a byte value.
- */
 public class ByteUShift {
 
     public static void main(String[] args) {

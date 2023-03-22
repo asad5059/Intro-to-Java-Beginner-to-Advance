@@ -1,8 +1,3 @@
-/**
- * C04 L02
- * 
- * Demonstrate the % operator.
- */
 public class Modulus {
 
     public static void main(String[] args) {
