@@ -1,7 +1,3 @@
-/**
- * C06 L04
- * 
- */
 public class BoxDemo4 {
 
     public static void main(String[] args) {

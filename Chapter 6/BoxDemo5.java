@@ -1,8 +1,3 @@
-/**
- * C06 L05
- * 
- * This program uses a parameterized method.
- */
 public class BoxDemo5 {
 
     public static void main(String[] args) {

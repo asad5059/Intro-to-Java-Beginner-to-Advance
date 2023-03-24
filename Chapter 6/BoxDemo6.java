@@ -1,8 +1,3 @@
-/**
- * C06 L06
- * 
- * Box uses a constructor to initialize the dimensions of a box.
- */
 public class BoxDemo6 {
 
     public static void main(String[] args) {

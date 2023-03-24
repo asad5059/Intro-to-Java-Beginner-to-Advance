@@ -1,8 +1,3 @@
-/**
- * C06 L03
- * 
- * This program includes a method inside the box class.
- */
 public class BoxDemo3 {
 
     public static void main(String[] args) {

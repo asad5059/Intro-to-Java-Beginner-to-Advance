@@ -1,11 +1,3 @@
-/**
- * C06 L02
- * 
- */
-
-/**
- * This program declares two Box objects.
- */
 public class BoxDemo2 {
 
     public static void main(String[] args) {

@@ -1,8 +1,3 @@
-/**
- * C06 L07
- * 
- * Box uses a parameterized constructor to initialize the dimensions of a box.
- */
 public class BoxDemo7 {
 
     public static void main(String[] args) {
