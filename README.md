@@ -17,4 +17,3 @@ Since this repository is for my personal use, contributions are not necessary. H
 ## Acknowledgments
 
 Special thanks to Herbert Schildt for writing "Java: The Complete Reference" and to the open-source community for their contributions to the Java programming language.
-
