@@ -8,7 +8,7 @@ This repo is based on the book "Java: The Complete Reference" by Herbert Schildt
 
 ## How to Use the Repo
 
-The repo is organized by chapter and section, with each section containing my summaries of the material covered in the book, along with examples and exercises to practice what I've learned. I can simply navigate to the section I want to study and start exploring.
+The repo is organized by chapter and section, with each section containing my summaries of the material covered in the book, along with examples and exercises to practice what I've learned. I can simply navigate to the section I want to study and start exploring. ***Please browse through the branchers to find the newest chapters while the repo is being updated.***
 
 ## Contributing
 
