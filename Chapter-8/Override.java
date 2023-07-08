@@ -24,7 +24,7 @@ class B4 extends A4 {
         super(a, b);
         k = c;
     }
-
+    @override
     void show() { //display -k this overrides show() in A
         super.show();//This calls A's show..
         System.out.println("k: " + k);
